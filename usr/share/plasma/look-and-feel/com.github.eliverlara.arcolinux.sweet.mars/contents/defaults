@@ -2,7 +2,7 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=Sweet-Mars
+ColorScheme=ArcoLinux-Sweet-Mars
 
 [kdeglobals][Icons]
 Theme=arcolinux-candy-beauty
@@ -11,7 +11,7 @@ Theme=arcolinux-candy-beauty
 cursorTheme=Bibata-Modern-Ice
 
 [plasmarc][Theme]
-name=ArcoLinux-Sweet-mars
+name=ArcoLinux-Sweet-Mars
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
