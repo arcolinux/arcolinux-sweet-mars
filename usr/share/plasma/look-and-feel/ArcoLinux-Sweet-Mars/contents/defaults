@@ -11,10 +11,8 @@ Theme=arcolinux-candy-beauty
 cursorTheme=Bibata-Modern-Ice
 
 [plasmarc][Theme]
-name=Sweet-mars
+name=ArcoLinux-Sweet-mars
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Sweet-Mars
-
-
